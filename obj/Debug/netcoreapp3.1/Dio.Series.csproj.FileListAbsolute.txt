@@ -1,0 +1,26 @@
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Bootcam MRV\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Bootcam MRV\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
